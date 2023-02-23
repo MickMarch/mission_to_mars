@@ -29,6 +29,9 @@ The purpose of this project is to utilize `splinter` and `BeautifulSoup` to scra
 3. The data was converted to appropriate data types.
 
 #### Analysis
+Data frame top 5 rows:
+
+![mars_df_head](resources/mars_df_head.png)
 
 The amount of months on Mars was determined to be 12 by the following code:
 ```python
