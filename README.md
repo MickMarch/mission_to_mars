@@ -80,7 +80,7 @@ Visualizing every minimum temperature data point on a chart allowed for a visual
 
 ## Bonus
 
-I decided I wasn't happy with using an internet search for the final answer for how many terrestrial days there are in a Martian year. So I used the following line of code on the `Mars Weather Data` to figure it out:
+I decided I wasn't happy with using an internet search for the final answer to determine how many terrestrial days there are in a Martian year. So I used the following line of code on the `Mars Weather Data` to figure it out:
 
 ```python
 month_list = list(range(1,13))
